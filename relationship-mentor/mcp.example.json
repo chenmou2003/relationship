@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "relationship-mentor": {
-      "command": "python3",
-      "args": ["/absolute/path/to/relationship-mentor/scripts/mcp_server.py"]
-    }
-  }
-}
